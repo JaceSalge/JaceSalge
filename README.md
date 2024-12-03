@@ -2,7 +2,7 @@
 - 👀 I’m interested in any type of science and math
 - 🌱 I’m currently learning C++ and eyeing Java
 - 💞️ I’m looking to collaborate on nothing much, I'm still learning and growing
-- 😄 Pronouns: short, intelligent, creative
+- 😄 Pronouns: he, him
 - ⚡ Fun fact: I'm 4' 6" but almost in high school!
 
 <!---
