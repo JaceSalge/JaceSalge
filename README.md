@@ -1,4 +1,4 @@
-![Banner]![image](https://github.com/user-attachments/assets/3a1c0847-b44d-46c2-a2ce-c87cb51d6fa9)
+![Banner](https://github.com/user-attachments/assets/9e2d876a-99c0-4c79-877b-8987c13a999d)
 
 
 - 👋 Hi, I’m @JaceSalge
